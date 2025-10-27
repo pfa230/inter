@@ -10,10 +10,6 @@ shapes = (
 {
 alignment = 1;
 ref = zero;
-},
-{
-pos = (5,0);
-ref = _part.zeroslash;
 }
 );
 width = 1292;
@@ -32,10 +28,6 @@ shapes = (
 {
 alignment = 1;
 ref = zero;
-},
-{
-pos = (-20,0);
-ref = _part.zeroslash;
 }
 );
 width = 1456;
@@ -46,9 +38,6 @@ shapes = (
 {
 alignment = 1;
 ref = zero;
-},
-{
-ref = _part.zeroslash;
 }
 );
 width = 1210;
@@ -59,9 +48,6 @@ shapes = (
 {
 alignment = 1;
 ref = zero;
-},
-{
-ref = _part.zeroslash;
 }
 );
 width = 1256;
@@ -72,9 +58,6 @@ shapes = (
 {
 alignment = 1;
 ref = zero;
-},
-{
-ref = _part.zeroslash;
 }
 );
 width = 1396;
@@ -85,10 +68,6 @@ shapes = (
 {
 alignment = 1;
 ref = zero;
-},
-{
-pos = (28,0);
-ref = _part.zeroslash;
 }
 );
 width = 1138;
