@@ -1,5 +1,7 @@
 sub zero by zero.slash;
+sub zero.unslashed by zero.slash;
 sub zero.tf by zero.tf.slash;
+sub zero.tf.unslashed by zero.tf.slash;
 sub zero.circled by zero.slash.circled;
 sub zero.squared by zero.slash.squared;
 sub zero.sups by zero.sups.slash;

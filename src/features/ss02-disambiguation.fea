@@ -58,6 +58,8 @@ sub Yi-cy by Yi-cy.1;
 
 # zero
 sub zero by zero.slash;
+sub zero.unslashed by zero.slash;
 sub zero.tf by zero.tf.slash;
+sub zero.tf.unslashed by zero.tf.slash;
 sub zero.squared by zero.slash.squared;
 sub zero.circled by zero.slash.circled;
