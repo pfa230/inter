@@ -1,5 +1,7 @@
 # Inter
 
+**Preface (this fork):** This fork makes the slashed-zero form the default `0` glyph, so you get a disambiguating zero without enabling the OpenType `zero` feature. Upstream Inter provides slashed zero as an optional OpenType feature that is normally off by default.
+
 Inter is a typeface carefully crafted & designed for computer screens.
 Inter features a tall x-height to aid in readability of mixed-case and lower-case text.
 Inter is a [variable font](https://rsms.me/inter/#variable) with
@@ -161,4 +163,3 @@ Inter is a [variable font](https://rsms.me/inter/#variable) and is in addition a
 | Bold                 | Bold Italic          | 700
 | Extra Bold           | Extra Bold Italic    | 800
 | Black                | Black Italic         | 900
-
